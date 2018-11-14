@@ -1,0 +1,5 @@
+[hosts]
+ansible-agent.us-east1-b.c.invertible-hook-218513.internal
+
+[remote]
+puppet-agent-master.us-east1-b.c.invertible-hook-218513.internal
